@@ -1,24 +1,26 @@
 {
   "id": "unidad-02",
   "numero": 2,
-  "titulo": "Recursos Digitales Lineales",
-  "descripcion": "Analizar y programar diferentes tipos de recursos digitales lineales a partir de especificaciones genéricas, comprendiendo la forma en que se organizan los datos de manera secuencial.",
-  "lema": "[Línea que sitúa la unidad dentro del curso y anticipa el producto de aprendizaje.]",
+  "titulo": "Identificación del perfil del consumidor y desarrollo de la mezcla de mercadotecnia",
+  "descripcion": "Construye el perfil del consumidor, diseña una mezcla comercial coherente y estima las ventas del primer año de operación de una empresa turística.",
+  "lema": "Una propuesta atractiva requiere evidencia sobre el mercado y un margen de contribución suficiente.",
   "duracion_horas": 27,
 
   "introduccion": [
-    "[Primer párrafo de la introducción: contexto del tema, por qué importa en el ejercicio profesional y qué preguntas guía resolverá el estudiante.]",
-    "[Segundo párrafo: cómo se relaciona con la unidad anterior y qué conocimientos previos conviene repasar.]"
+    "Un plan de marketing turístico debe relacionar las necesidades del visitante con una experiencia que la empresa pueda entregar y sostener económicamente. Elegir a quién atender determina qué servicios ofrecer, cuánto cobrar, cómo comunicar sus beneficios y mediante qué canales venderlos. El pronóstico de ventas permite comprobar si esas decisiones son compatibles con la capacidad disponible y los costos de operación.",
+    "Esta investigación desarrolla los apartados 2.1, 2.2 y sus cuatro subtemas, 2.3 y 2.3.1 del programa de Plan de marketing de la Escuela Superior de Turismo del Instituto Politécnico Nacional (IPN, 2022, p. 3). Su objetivo es explicar cómo construir un perfil del consumidor, diseñar una mezcla comercial coherente y estimar las ventas del primer año. La conclusión central es que una propuesta atractiva requiere evidencia sobre el mercado y un margen de contribución suficiente; las preferencias supuestas y las metas de venta, por sí solas, no prueban su viabilidad.",
+    "El desarrollo combina fuentes académicas y organismos especializados con un caso didáctico propio: Rutas del Centro, una operadora ficticia de experiencias culturales de un día. Todos los precios, volúmenes, porcentajes y resultados de esta empresa son supuestos ilustrativos, no estadísticas de una empresa real. Las fuentes se citan mediante paráfrasis y se presentan en formato APA séptima edición."
   ],
 
-  "recorrido": "[Descripción del recorrido: en qué orden conviene leer los temas y qué actividad los cierra.]",
+  "recorrido": "Recorre los cuatro temas en orden: primero se define el segmento meta y el perfil del visitante; después se diseña la mezcla de mercadotecnia (producto, precio, marca y comunicación); luego se estima el pronóstico de ventas del primer año y, por último, se comparan los canales de distribución directos e indirectos. El caso Rutas del Centro conecta todos los temas y cada uno cierra con su actividad de aprendizaje.",
 
   "temas": [
     {
       "numero": "2.1",
-      "nombre": "Tema provisional",
-      "sintesis": "[Síntesis del tema en una línea: qué se explica y con qué recurso se apoya.]",
+      "nombre": "Segmento de mercado meta y perfil del consumidor",
+      "sintesis": "Variables de segmentación, mercado meta, buyer persona, criterios de un segmento útil y aplicación al perfil del visitante de Rutas del Centro.",
       "url": "unidades/unidad-02/temas/tema-02-01.html",
+      "icono": "fa-users-viewfinder",
       "actividad": {
         "nombre": "Actividad de aprendizaje 2.1",
         "url": "unidades/unidad-02/actividades/actividad-2-1.html"
@@ -26,9 +28,10 @@
     },
     {
       "numero": "2.2",
-      "nombre": "Tema provisional 2",
-      "sintesis": "[Síntesis del tema en una línea: qué se explica y con qué recurso se apoya.]",
-      "url": "",
+      "nombre": "Elementos de la mezcla de mercadotecnia",
+      "sintesis": "Producto turístico, precio y punto de equilibrio, branding y posicionamiento, y estrategias de comunicación integral aplicadas al caso.",
+      "url": "unidades/unidad-02/temas/tema-02-02.html",
+      "icono": "fa-layer-group",
       "actividad": {
         "nombre": "Actividad de aprendizaje 2.2",
         "url": "unidades/unidad-02/actividades/actividad-2-2.html"
@@ -36,9 +39,10 @@
     },
     {
       "numero": "2.3",
-      "nombre": "Tema prrovisionaln 3",
-      "sintesis": "[Síntesis del tema en una línea: qué se explica y con qué recurso se apoya.]",
-      "url": "",
+      "nombre": "Pronósticos de ventas para el primer año de operación",
+      "sintesis": "Diferencia entre pronóstico y meta, estimación sin historial, ejemplo mensual del primer año y escenarios conservador y favorable.",
+      "url": "unidades/unidad-02/temas/tema-02-03.html",
+      "icono": "fa-chart-column",
       "actividad": {
         "nombre": "Actividad de aprendizaje 2.3",
         "url": "unidades/unidad-02/actividades/actividad-2-3.html"
@@ -46,9 +50,10 @@
     },
     {
       "numero": "2.4",
-      "nombre": "Tema provisional 4",
-      "sintesis": "[Síntesis del tema en una línea: qué se explica y con qué recurso se apoya.]",
-      "url": "",
+      "nombre": "Canales de distribución directos e indirectos y comercio electrónico",
+      "sintesis": "Venta directa e intermediada, efecto de las comisiones en la contribución y el equilibrio, y prácticas de comercio electrónico.",
+      "url": "unidades/unidad-02/temas/tema-02-04.html",
+      "icono": "fa-cart-shopping",
       "actividad": {
         "nombre": "Actividad de aprendizaje 2.4",
         "url": "unidades/unidad-02/actividades/actividad-2-4.html"
@@ -62,20 +67,18 @@
     "url": "unidades/unidad-02/actividades/actividad-final.html"
   },
 
-  "objetivo": "[Verbo en infinitivo + objeto de conocimiento + condición y finalidad del aprendizaje.]",
+  "objetivo": "Explicar cómo construir un perfil del consumidor, diseñar una mezcla comercial coherente y estimar las ventas del primer año de operación de una empresa turística, con base en evidencia sobre el mercado y en el margen de contribución.",
 
   "competencias": [
-    "[Competencia 1 redactada en términos observables.]",
-    "[Competencia 2 redactada en términos observables.]",
-    "[Competencia 3 redactada en términos observables.]"
+    "Identifica el segmento de mercado meta y construye el perfil del consumidor a partir de evidencia de investigación.",
+    "Diseña los elementos de la mezcla de mercadotecnia (producto, precio, marca y comunicación) de forma coherente con el perfil del visitante.",
+    "Calcula el punto de equilibrio y estima el pronóstico de ventas del primer año considerando capacidad, estacionalidad y escenarios.",
+    "Compara canales de distribución directos e indirectos según su contribución y su efecto en la viabilidad del plan."
   ],
 
-  "video": {
-    "titulo": "Video de introducción a la Unidad II",
-    "url": "https://www.youtube.com/embed/-hjFMM17DHw"
-  },
+  "video": "",
 
   "material_apoyo": [
-    { "nombre": "Referencias de la unidad", "url": "unidades/unidad-02/referencias.html" }
+    { "nombre": "Referencias bibliográficas de la unidad", "url": "unidades/unidad-02/referencias.html" }
   ]
 }
